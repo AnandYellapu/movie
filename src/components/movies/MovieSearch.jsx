@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
-import { fetchMovies, setQuery, setPage } from "../../components/movies/movieSlice";
+import { fetchMovies, setQuery, setPage } from "./MovieSlice";
 import Spinner from "../../common-components/spinner";
 
 const MovieSearch = () => {

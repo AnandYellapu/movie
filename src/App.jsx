@@ -1,5 +1,5 @@
 import React from 'react';
-import  MovieSearch from './components/movies/MovieSearch.jsx';
+import  MovieSearch from './components/movies/MovieSearch';
 
 function App() {
   return (
