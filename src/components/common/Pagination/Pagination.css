@@ -1,4 +1,4 @@
-/* .pagination {
+.pagination {
   display: flex;
   justify-content: center;
   gap: 8px;
@@ -23,12 +23,12 @@
 .pagination button:disabled {
   cursor: not-allowed;
   opacity: 0.5;
-} */
+}
 
 
 
 
-
+/* 
 .pagination button {
   padding: 6px 12px;
   border: 1px solid #ccc;
@@ -50,8 +50,8 @@
   opacity: 0.6;
 }
 
-/* Optional: distinct style for active + disabled button */
+
 .pagination button.active:disabled {
   opacity: 1;
   box-shadow: 0 0 5px rgba(14, 165, 233, 0.4);
-}
+} */
